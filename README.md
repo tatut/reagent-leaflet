@@ -19,5 +19,6 @@ This is work in progress.
 * support more geometry types and geometry options (color, bind popups, etc)
 * support more events
 * unmount behaviour (cleanup when map is being removed from DOM)
+* turn this into a proper library and push it to clojars
 * plethora of other stuff...
 
